@@ -8,5 +8,9 @@ ill test it on real data. This package is completely free and open source.If you
 # R-Forge Link
 https://r-forge.r-project.org/projects/htda/
 
-# Contact
+# Contact information
 Reema Singh (reemasingh.jnu@gmail.com)
+
+# Publication
+
+Singh R. Development and application of data management and analysis protocols for high throughput data analysis (Doctoral dissertation, Jawaharlal Nehru University, 2015).
