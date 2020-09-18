@@ -25,7 +25,7 @@ ts,GenomicRanges\cr
 }
 }
 \author{
-Reema Singh,Andrew M. Lynn and Yogendra Bhaskar
+Reema Singh and Andrew M. Lynn 
 
 Maintainer: Who to complain to <reemasingh.jnu@gmail.com>
 }
