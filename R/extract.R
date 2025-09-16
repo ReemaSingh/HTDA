@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 extract <- function(x){
         p <- gsub("\t","  ",unlist(x))
         p1 <- strsplit(p,"  ",fixed=FALSE)
