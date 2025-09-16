@@ -1,4 +1,7 @@
- ######### Geneset Enrichment Analysis ###########
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
+######### Geneset Enrichment Analysis ###########
 	#### Gene Ontology (GO) anaysis of Differential Expressed Genes
         annotate <- function(object,annotation="ath1121501",ont="MF",pvalue=0.5,entrez,entrezid){
         up <- object@diffExp[which(object@diffExp$logFC >= 1), ]
