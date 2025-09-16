@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 ######## Define S4 object ############
 
 setClass("parse.Shimadzu",representation(McPeakTable="data.frame",Annotation="matrix",GasChromatogram="data.frame",MassSpectrum = "list",FinalTable="data.frame"))
