@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 ####### Shimadzu .txt file parsing function 
 
 Parse <- function(x){
