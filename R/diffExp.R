@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 ############### Differentiall Expression method##########
 
         diffExp <- function(object,comparison=NULL,volcanoPlot=FALSE,...){
