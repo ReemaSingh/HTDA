@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 
         SeqAna <- function(file,blastdb,nthread="8",mtras="1",..){
         ##### Blast     
