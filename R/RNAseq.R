@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 ###### Define S4 object ######
 
 setClass("PreProcessData",representation(qData="matrix",phenoData="data.frame",diffExp = "data.frame",DFsummary = "data.frame",enrichment="data.frame"))
