@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 ############### Machine Learning method ######################
 
         MultiVariAnalysis <- function(object,method="clustering",...){
