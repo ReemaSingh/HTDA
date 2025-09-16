@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 plotMsSpectrum <- function(x,i){
         no <- x[[i]]$a[[2]]
         no <- gsub("# of Peaks", "Number of Peaks = ",no)
