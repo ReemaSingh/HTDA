@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 ### Check the quality of the newly assembled transcriptomes by aligning it with the existing genome(if available)
 #using BLAT as well as aligning reads with the newly assembled transcript and the resulting alignment can visualize by using IGV/IGB
 
