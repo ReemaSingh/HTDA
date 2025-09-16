@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 ###### Define S4 object ######
 
 setClass("NcmsProcessData",representation(qData="matrix",phenoData="data.frame",BsData="matrix",normSpectra="matrix",diffExp = "data.frame",gcIntensity="matrix",retenTime="matrix"))
