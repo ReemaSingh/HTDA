@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 ############## Baseline Correction Modiefied #####################
 ###### Function Inherited from PROcess package, but we modified it according to our need.
 
