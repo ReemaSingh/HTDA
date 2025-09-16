@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 AverageScan <- function(x){
         y <- data.frame(x$b)
         colnames(y) <- c("mass","absolute","relative")
