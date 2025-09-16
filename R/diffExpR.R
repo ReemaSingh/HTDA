@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 ############### Differentiall Expression method for RNASeq Data ##########
 
 diffExpR <- function(object,comparison=comparison,...){
