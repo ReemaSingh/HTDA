@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 ### Creating S4 object
 setClass("SequnecAnalysisData",representation(AssembStat="data.frame",Homologus="data.frame",signalPeptide="data.frame",transRegion="data.frame",HMM="data.frame"))
 
